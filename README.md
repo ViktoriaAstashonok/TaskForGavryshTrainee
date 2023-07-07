@@ -1,1 +1,1 @@
-RESTful Menu App with a Facade connected to the database
+RESTful Menu App with Facades connected to the database
